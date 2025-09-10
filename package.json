@@ -14,6 +14,7 @@
     "fumadocs-mdx": "11.8.2",
     "fumadocs-ui": "15.7.7",
     "next": "15.5.2",
+    "pnpm": "^10.15.1",
     "react": "^19.1.1",
     "react-dom": "^19.1.1"
   },
